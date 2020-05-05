@@ -1,2 +1,2 @@
 # -
-深度学习项目
+discover truth
